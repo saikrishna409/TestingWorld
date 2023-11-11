@@ -3,7 +3,7 @@ package com.practise;
 public class test1 {
 
 	public static void main(String[] args) {
-		String input = "AAAAABBCCAAA";
+		String input = "AAAAABBCCAA";
 		String output = countChar(input);
 
 		String output2 = countCharAll(input);
